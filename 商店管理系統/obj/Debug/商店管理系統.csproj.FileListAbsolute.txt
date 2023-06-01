@@ -1,0 +1,12 @@
+C:\Users\hank7\source\repos\商店管理系統\bin\Debug\商店管理系統.exe.config
+C:\Users\hank7\source\repos\商店管理系統\bin\Debug\商店管理系統.exe
+C:\Users\hank7\source\repos\商店管理系統\bin\Debug\商店管理系統.pdb
+C:\Users\hank7\source\repos\商店管理系統\obj\Debug\商店管理系統.csproj.AssemblyReference.cache
+C:\Users\hank7\source\repos\商店管理系統\obj\Debug\商店管理系統.csproj.SuggestedBindingRedirects.cache
+C:\Users\hank7\source\repos\商店管理系統\obj\Debug\商店管理系統.Form1.resources
+C:\Users\hank7\source\repos\商店管理系統\obj\Debug\商店管理系統.Properties.Resources.resources
+C:\Users\hank7\source\repos\商店管理系統\obj\Debug\商店管理系統.csproj.GenerateResource.cache
+C:\Users\hank7\source\repos\商店管理系統\obj\Debug\商店管理系統.csproj.CoreCompileInputs.cache
+C:\Users\hank7\source\repos\商店管理系統\obj\Debug\商店管理系統.exe
+C:\Users\hank7\source\repos\商店管理系統\obj\Debug\商店管理系統.pdb
+C:\Users\hank7\source\repos\商店管理系統\obj\Debug\商店管理系統.Form2.resources
